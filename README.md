@@ -37,7 +37,9 @@ Programming resources not asosiated with any programming language/technology
 
 ### Algorithms
 - [Interactive Coding Challanges ✍️📝](https://github.com/donnemartin/interactive-coding-challenges)
+- [Tech Interview Handbook – Algorithms 💬](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms)
 - [Algorithms in Python ✂️](https://github.com/keon/algorithms) – "Minimal and clean example implementations of data structures and algorithms in Python 3"
+- [Algorithms in JavaScript ✂️](https://github.com/yangshun/lago)
 
 
 ## Front-Enbd Development
@@ -140,6 +142,8 @@ aka: the stuff that I haven't found a place in this list
 - [Live Commit](https://github.com/ByronHsu/life-commit)
 
 ### Career
+- [Tech Interview Handbook 📗](https://github.com/yangshun/tech-interview-handbook)
+- [Front-End Interview Handbook 📗](https://github.com/yangshun/front-end-interview-handbook)
 - [Coding Interview Questions 📜💬](https://github.com/FAQGURU/FAQGURU)
 - [Interviews - everything you need to get a job](https://github.com/kdn251/interviews)
 - [InterviewThis!](https://github.com/Twipped/InterviewThis) – List of developer questions to ask prospective employers

@@ -83,6 +83,7 @@ Programming resources not asosiated with any programming language/technology
 
 ### Python
 - [WTF Python ✂️](https://github.com/satwikkansal/wtfpython) – "A collection of surprising Python snippets and lesser-known features"
+- [PySheet 💬✂️](https://github.com/crazyguitar/pysheeet) – Python Cheat Sheet
 
 
 ## Mobile Development
@@ -120,7 +121,10 @@ Programming resources not asosiated with any programming language/technology
 - [Hitchhiker's Guide to Data Science 📜💬](https://github.com/dssg/hitchhikers-guide)
 
 ### Blockchain
-- [Blockchain for Humans ](https://github.com/anderson-joyle/blockchain-for-humans)
+- [Blockchain for Humans 📜](https://github.com/anderson-joyle/blockchain-for-humans)
+
+#### Cryptocurrencies
+- [Awesome Coins 🔗](https://github.com/kennethreitz/awesome-coins)
 
 ### System Architecture
 - [System design primer 💬](https://github.com/donnemartin/system-design-primer)

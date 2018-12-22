@@ -82,6 +82,7 @@ Programming resources not asosiated with any programming language/technology
 
 ### Practice tasks
 - [RealWorld](https://github.com/gothinkster/realworld) – Exemplary fullstack Medium.com clone
+- [JavaScript Excercises ✍️](https://github.com/appalaszynski/javascript-exercises)
 - [How to build responsive website from start to finish 🎥](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
 - [The New Code – Excercises and Quizes ✍️📝](http://thenewcode.com/1044/Web-Developer-Reading-List-Exercises-and-Quizzes)
 - [5 Projects To Complete When Starting to Learn Front-End Web Development ✍️](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178)
@@ -129,6 +130,7 @@ Programming resources not asosiated with any programming language/technology
 ## Buzz-Words / Topics
 
 ### Machine Learning
+- [Dive into Machine Learning 💬](https://github.com/hangtwenty/dive-into-machine-learning) – with Python Jupyter notebook and scikit-learn! 
 - [Have Fun with Machine Learning: A Guide for Beginners](https://github.com/humphd/have-fun-with-machine-learning)
 - [Machine Learning Curriculum](https://github.com/off99555/machine-learning-curriculum)
 - [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)

@@ -5,6 +5,7 @@ Personal list of programming related learning resources
 
 ## Web Development
 - [Learn web development as an absolute beginner (2018 guide)](https://coder-coder.com/learn-web-development/) - great introduction to learning Web Development
+- [Front-End Developer Handbook](https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
 
 ## Development tools
 

@@ -29,6 +29,7 @@ Programming resources not asosiated with any programming language/technology
 - [Curated Programming Resources 🔗](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 - [Build your own... ✍️](https://github.com/danistefanovic/build-your-own-x)
 - [Reverse Engineering for Beginners 📗](https://github.com/DennisYurichev/RE-for-beginners)
+- [Operating Systems: From 0 to 1 📗](https://github.com/tuhdo/os01) - build your own operating system!
 
 
 ## Front-Enbd Development
@@ -37,6 +38,7 @@ Programming resources not asosiated with any programming language/technology
 - [Reading List – The New Code 🔗](http://thenewcode.com/729/Introduction-to-Web-Development-Reading-Lists)
 - [Web Development Syllabus 🔗](https://novicedock.com/learn/computer-science/web-development#practice)
 - [The Most Essential List for Front-End Beginners 🔗](https://github.com/thedaviddias/Resources-Front-End-Beginner)
+- [Become a Full-Stack Developer 🔗](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [Front End Checklist 👌](https://github.com/thedaviddias/Front-End-Checklist)
 - [Front-End Performance Checklist 👌](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [Front-End Design Checklist 👌](https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist)
@@ -87,6 +89,7 @@ Programming resources not asosiated with any programming language/technology
 
 ### Web Design
 - [Inspiration 🔗](https://github.com/noahbuscher/inspire)
+- [Ant Design](https://pro.ant.design) - "Out-of-box UI solution for enterprise applications"
 
 ### UI/UX Design
 - [UI/UX Designer Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)

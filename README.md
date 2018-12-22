@@ -204,4 +204,4 @@ aka: the stuff that I haven't found a place in this list
 Licenced under Creative Commons 0.
 See LICENCE.md for further details
 
-[![CC0 Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CC-Zero-badge.svg/500px-CC-Zero-badge.svg.png)]
+![CC0 Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CC-Zero-badge.svg/500px-CC-Zero-badge.svg.png)

@@ -171,5 +171,6 @@ aka: the stuff that I haven't found a place in this list
 - [Front-End Interview Handbook 📗](https://github.com/yangshun/front-end-interview-handbook)
 - [Coding Interview Questions 📜💬](https://github.com/FAQGURU/FAQGURU)
 - [Interviews - everything you need to get a job](https://github.com/kdn251/interviews)
-- [InterviewThis!](https://github.com/Twipped/InterviewThis) – List of developer questions to ask prospective employers
+- [Awesome Remote Job 🔗](https://github.com/lukasz-madon/awesome-remote-job)
+- [InterviewThis! 💬](https://github.com/Twipped/InterviewThis) – List of developer questions to ask prospective employers
 - [Hiring Without Whiteboards 📜](https://github.com/poteto/hiring-without-whiteboards) – List of companies that don't have a broken hiring process

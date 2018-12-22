@@ -90,7 +90,8 @@ Programming resources not asosiated with any programming language/technology
 - [Auth Boss 📗](https://github.com/teesloane/Auth-Boss) – Learn about different authentication methodologies on the web
 
 ### Practice tasks
-- [RealWorld ✂️](https://github.com/gothinkster/realworld) – Exemplary fullstack Medium.com clone
+- [RealWorld ✂️💬](https://github.com/gothinkster/realworld) – Exemplary fullstack Medium.com clone
+- [Thinkster ✍️💬](https://thinkster.io)
 - [JavaScript Excercises ✍️](https://github.com/appalaszynski/javascript-exercises)
 - [How to build responsive website from start to finish 🎥](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
 - [The New Code – Excercises and Quizes ✍️📝](http://thenewcode.com/1044/Web-Developer-Reading-List-Exercises-and-Quizzes)

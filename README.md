@@ -28,6 +28,7 @@ Programming resources not asosiated with any programming language/technology
 
 - [Curated Programming Resources 🔗](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 - [Build your own... ✍️](https://github.com/danistefanovic/build-your-own-x)
+- [Reverse Engineering for Beginners 📗](https://github.com/DennisYurichev/RE-for-beginners)
 
 
 ## Front-Enbd Development
@@ -68,14 +69,16 @@ Programming resources not asosiated with any programming language/technology
 - [Docker Cheat Sheet](https://github.com/eon01/DockerCheatSheet)
 
 ### Bash / CLI
-
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [Pure Bash Bible 📗](https://github.com/dylanaraps/pure-bash-bible)
 
 ## Machine Learning
 - [Have Fun with Machine Learning: A Guide for Beginners](https://github.com/humphd/have-fun-with-machine-learning)
 - [Machine Learning Curriculum](https://github.com/off99555/machine-learning-curriculum)
 - [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
 
+## Data Science
+- [Hitchhiker's Guide to Data Science 📜💬](https://github.com/dssg/hitchhikers-guide)
 
 ## System Architecture
 - [System design primer 💬](https://github.com/donnemartin/system-design-primer)
@@ -97,7 +100,7 @@ aka: the stuff that I haven't found a place in this list
 - [Awesome Cheat Sheets 🔗](https://github.com/LeCoupa/awesome-cheatsheets)
 
 ### Programming
-- [Design Patterns For Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [Design Patterns For Humans 💬](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ### Career
 - [Coding Interview Questions 📜💬](https://github.com/FAQGURU/FAQGURU)

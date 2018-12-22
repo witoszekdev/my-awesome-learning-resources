@@ -7,6 +7,7 @@ Personal list of programming related learning resources
 - [Learn web development as an absolute beginner (2018 guide)](https://coder-coder.com/learn-web-development/) - great introduction to learning Web Development
 - [Front-End Developer Handbook](https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
 - [Reading List – The New Code](http://thenewcode.com/729/Introduction-to-Web-Development-Reading-Lists)
+- [Web Development Syllabus](https://novicedock.com/learn/computer-science/web-development#practice)
 
 ### JavaScript
 - [JavaScript tooling](https://blog.qmo.io/javascript-tooling-the-evolution-and-future-of-js-front-end-build-tools/)

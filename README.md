@@ -28,8 +28,14 @@ Programming resources not asosiated with any programming language/technology
 
 - [Curated Programming Resources 🔗](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 - [Build your own... ✍️](https://github.com/danistefanovic/build-your-own-x)
+- [Project Based Learning ✍️🔗](https://github.com/tuvtran/project-based-learning)
 - [Reverse Engineering for Beginners 📗](https://github.com/DennisYurichev/RE-for-beginners)
 - [Operating Systems: From 0 to 1 📗](https://github.com/tuhdo/os01) - build your own operating system!
+- [A-Z Resources for Studens 🔗](https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-portals-smile)
+- [Design Patterns For Humans 💬](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+### Algorithms
+- [Interactive Coding Challanges ✍️📝](https://github.com/donnemartin/interactive-coding-challenges)
 
 
 ## Front-Enbd Development
@@ -63,8 +69,16 @@ Programming resources not asosiated with any programming language/technology
 ### Best practices
 - [WebFoundamentals 👌💡 (Google)](https://developers.google.com/web/fundamentals)
 
-## Development tools
 
+
+## Mobile Development
+- [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
+
+
+
+## Development tools 🔧
+
+### Version control
 - [Git-it ✍️](https://github.com/jlord/git-it-electron)
 
 ### Docker 🐋
@@ -74,21 +88,33 @@ Programming resources not asosiated with any programming language/technology
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Pure Bash Bible 📗](https://github.com/dylanaraps/pure-bash-bible)
 
-## Machine Learning
+### HTTP
+- [CLI HTTP Client 💡](https://github.com/jakubroztocil/httpie#macos)
+
+## Buzz-Words
+
+### Machine Learning
 - [Have Fun with Machine Learning: A Guide for Beginners](https://github.com/humphd/have-fun-with-machine-learning)
 - [Machine Learning Curriculum](https://github.com/off99555/machine-learning-curriculum)
 - [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
 
-## Data Science
+### Data Science
 - [Hitchhiker's Guide to Data Science 📜💬](https://github.com/dssg/hitchhikers-guide)
 
-## System Architecture
+### Blockchain
+- [Blockchain for Humans ](https://github.com/anderson-joyle/blockchain-for-humans)
+
+### System Architecture
 - [System design primer 💬](https://github.com/donnemartin/system-design-primer)
+- [System Design Interview 🔗](https://github.com/checkcheckzz/system-design-interview)
+- [System Design Patterns (Awesome-Scalability) 🔗](https://github.com/binhnguyennus/awesome-scalability)
+
 
 ## Design
 
 ### Web Design
 - [Inspiration 🔗](https://github.com/noahbuscher/inspire)
+- [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design)
 - [Ant Design](https://pro.ant.design) - "Out-of-box UI solution for enterprise applications"
 
 ### UI/UX Design
@@ -98,12 +124,10 @@ Programming resources not asosiated with any programming language/technology
 ## General advice
 aka: the stuff that I haven't found a place in this list
 
-- [A-Z Resources for Studens 🔗](https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-portals-smile)
 - [Awesome Creative Coding 🔗](https://github.com/terkelg/awesome-creative-coding)
 - [Awesome Cheat Sheets 🔗](https://github.com/LeCoupa/awesome-cheatsheets)
 
-### Programming
-- [Design Patterns For Humans 💬](https://github.com/kamranahmedse/design-patterns-for-humans)
-
 ### Career
 - [Coding Interview Questions 📜💬](https://github.com/FAQGURU/FAQGURU)
+- [Interviews - everything you need to get a job](https://github.com/kdn251/interviews)
+- [Hiring Without Whiteboards 📜](https://github.com/poteto/hiring-without-whiteboards) – List of companies that don't have a broken hiring process

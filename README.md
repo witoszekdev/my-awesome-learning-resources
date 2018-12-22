@@ -94,7 +94,8 @@ Programming resources not asosiated with any programming language/technology
 - [JavaScript Excercises ✍️](https://github.com/appalaszynski/javascript-exercises)
 - [How to build responsive website from start to finish 🎥](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
 - [The New Code – Excercises and Quizes ✍️📝](http://thenewcode.com/1044/Web-Developer-Reading-List-Exercises-and-Quizzes)
-- [5 Projects To Complete When Starting to Learn Front-End Web Development ✍️](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178)
+- [5 Projects To Complete When Starting to Learn Front-End Web Development ✍️🗞️](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178)
+- [10+ Php projects for beginners ✍️🗞️](http://marketinghacker.org/10-php-projects-for-beginners/) (not only for PHP)
 
 ### Best practices
 - [WebFoundamentals 👌💡 (Google)](https://developers.google.com/web/fundamentals)

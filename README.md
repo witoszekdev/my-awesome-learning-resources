@@ -6,7 +6,7 @@ Personal list of programming related learning resources
 - ✍️ – Learn by doing
 - 📜 – Introduction / List
 - 🔗 – List linking to other resources
-- 🎥 – Video
+- 🎥 – Video / YouTube Channel
 - 📝 – Quiz
 - 🗞️ – Article
 - 💬 – Tutorial
@@ -24,13 +24,17 @@ Personal list of programming related learning resources
 - [Reading List – The New Code 🔗](http://thenewcode.com/729/Introduction-to-Web-Development-Reading-Lists)
 - [Web Development Syllabus 🔗](https://novicedock.com/learn/computer-science/web-development#practice)
 - [The Most Essential List for Front-End Beginners 🔗](https://github.com/thedaviddias/Resources-Front-End-Beginner)
+- [Front End Checklist 👌](https://github.com/thedaviddias/Front-End-Checklist)
+- [Front-End Performance Checklist 👌](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+- [Front-End Design Checklist 👌](https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist)
 
 ### JavaScript
 - [JavaScript tooling 🔧](https://blog.qmo.io/javascript-tooling-the-evolution-and-future-of-js-front-end-build-tools/)
 - [How to setup Webpack from scratch 💬](https://codeburst.io/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e)
 - [Awesome JavaScript Learning 🔗](https://github.com/micromata/awesome-javascript-learning)
 - [Node School Workshops ✍️](https://nodeschool.io)
-
+- [The Coding Train 🎥](https://www.youtube.com/user/shiffman)
+- 
 
 ### Practice tasks
 - [How to build responsive website from start to finish 🎥](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
@@ -52,8 +56,17 @@ Personal list of programming related learning resources
 
 - [System design primer 💬](https://github.com/donnemartin/system-design-primer)
 
+## Design
+
+### Web Design
+TODO
+
+
 ## General advice
+aka: the stuff that I haven't found a place in this list
+
 - [A-Z Resources for Studens 🔗](https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-portals-smile)
+- [Awesome Creative Coding 🔗](https://github.com/terkelg/awesome-creative-coding)
 
 ### Career
 - [Coding Interview Questions 📜💬](https://github.com/FAQGURU/FAQGURU)

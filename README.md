@@ -1,23 +1,30 @@
 # (my) Awesome learning resouces 📚
 
-Personal list of programming related learning resources.
+> Courated personal list of programming related learning resources.
+
+**But Why?**
 
 I starred a lot of repos on GitHub and bookmarked / pinboarded / Instapapered a lot of great resources on the Internet.
 Unfortunatley I've never had time to read them all. Maybe when I categorize them in a nice and easy-to-read list I'll finally read them? 😅
 
-## Used Emojis
-- ✍️ – Learn by doing
-- 📜 – Introduction / List
+**Used Emojis**
+- 📜 – Introduction to topic / List / Curriculum
 - 🔗 – List linking to other resources
-- 🎥 – Video / YouTube Channel
-- 📝 – Quiz
+
+- 💬 – Text Tutorial
+- 🎥 – Video Tutorial / YouTube Channel
 - 🗞️ – Article
-- 💬 – Tutorial
 - 📗 – Book
+
+- ✍️ – Learn by doing
+- 📝 – Quizes
+
 - 💡 – New Ideas / Trending
+
 - 👌 – Best–Practices
 - 🚧 – Bad-Practices
 - 📊 – Design Patterns
+
 - 🔐 – Security
 - ✂️ – Code
 
@@ -50,6 +57,7 @@ Programming resources not asosiated with any programming language/technology
 - [Mega Project List ✍️](https://github.com/karan/Projects) – A list of practical projects that anyone can solve in any programming language
 
 
+
 ## Front-Enbd Development
 - [Web Developer Roadmap 📜](https://github.com/kamranahmedse/developer-roadmap)
 - [Learn web development as an absolute beginner (2018 guide) 📜](https://coder-coder.com/learn-web-development/) - great introduction to learning Web Development
@@ -58,9 +66,6 @@ Programming resources not asosiated with any programming language/technology
 - [Web Development Syllabus 🔗](https://novicedock.com/learn/computer-science/web-development#practice)
 - [The Most Essential List for Front-End Beginners 🔗](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 - [Become a Full-Stack Developer 🔗](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [Front End Checklist 👌](https://github.com/thedaviddias/Front-End-Checklist)
-- [Front-End Performance Checklist 👌](https://github.com/thedaviddias/Front-End-Performance-Checklist)
-- [Front-End Design Checklist 👌](https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist)
 
 ### HTML
 - [HTML Best Practices 👌](https://github.com/hail2u/html-best-practices)
@@ -75,13 +80,14 @@ Programming resources not asosiated with any programming language/technology
 - [The Coding Train 🎥](https://www.youtube.com/user/shiffman)
 
 ### PWA - Progressive Web Apps
-- [PWA Fundamentals](https://github.com/mike-works/pwa-fundamentals)
+~~- [PWA Fundamentals ](https://github.com/mike-works/pwa-fundamentals)~~
+> Paid Workshop Materials
 
 ### HTTP
 - [Auth Boss 📗](https://github.com/teesloane/Auth-Boss) – Learn about different authentication methodologies on the web
 
 ### Practice tasks
-- [RealWorld](https://github.com/gothinkster/realworld) – Exemplary fullstack Medium.com clone
+- [RealWorld ✂️](https://github.com/gothinkster/realworld) – Exemplary fullstack Medium.com clone
 - [JavaScript Excercises ✍️](https://github.com/appalaszynski/javascript-exercises)
 - [How to build responsive website from start to finish 🎥](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
 - [The New Code – Excercises and Quizes ✍️📝](http://thenewcode.com/1044/Web-Developer-Reading-List-Exercises-and-Quizzes)
@@ -89,6 +95,9 @@ Programming resources not asosiated with any programming language/technology
 
 ### Best practices
 - [WebFoundamentals 👌💡 (Google)](https://developers.google.com/web/fundamentals)
+- [Front End Checklist 👌](https://github.com/thedaviddias/Front-End-Checklist)
+- [Front-End Performance Checklist 👌](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+- [Front-End Design Checklist 👌](https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist)
 
 
 
@@ -104,7 +113,8 @@ Programming resources not asosiated with any programming language/technology
 - [Lear you Node ✍️💬](https://github.com/workshopper/learnyounode)
 
 ## Mobile Development
-- [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
+- [iOS Developer Roadmap 📜](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
+
 
 
 
@@ -114,10 +124,10 @@ Programming resources not asosiated with any programming language/technology
 - [Git-it ✍️](https://github.com/jlord/git-it-electron)
 
 ### Docker 🐋
-- [Docker Cheat Sheet](https://github.com/eon01/DockerCheatSheet)
+- [Docker Cheat Sheet 💬](https://github.com/eon01/DockerCheatSheet)
 
 ### Bash / CLI
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [The Art of Command Line 💬](https://github.com/jlevy/the-art-of-command-line) – "Master the command line, in one page"
 - [Pure Bash Bible 📗](https://github.com/dylanaraps/pure-bash-bible)
 
 ### HTTP Client
@@ -127,13 +137,16 @@ Programming resources not asosiated with any programming language/technology
 #### AWS
 - [AWS – Open Guide 📗](https://github.com/open-guides/og-aws)
 
-## Buzz-Words / Topics
+
+
+
+## Buzz-Words
 
 ### Machine Learning
 - [Dive into Machine Learning 💬](https://github.com/hangtwenty/dive-into-machine-learning) – with Python Jupyter notebook and scikit-learn! 
-- [Have Fun with Machine Learning: A Guide for Beginners](https://github.com/humphd/have-fun-with-machine-learning)
-- [Machine Learning Curriculum](https://github.com/off99555/machine-learning-curriculum)
-- [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
+- [Have Fun with Machine Learning: A Guide for Beginners 💬](https://github.com/humphd/have-fun-with-machine-learning)
+- [Machine Learning Curriculum 📜🔗](https://github.com/off99555/machine-learning-curriculum)
+- [PyTorch Tutorial 💬](https://github.com/yunjey/pytorch-tutorial)
 
 ### Data Science
 - [Hitchhiker's Guide to Data Science 📜💬](https://github.com/dssg/hitchhikers-guide)
@@ -151,13 +164,14 @@ Programming resources not asosiated with any programming language/technology
 
 ### Hacking
 - [Hacker 101 ✍️🎥](https://www.hacker101.com) – free class for web security
-- [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit) – 
+~~- [Social Engineering Toolkit ](https://github.com/trustedsec/social-engineer-toolkit)~~
+> A tool
 
 ## Design
 
 ### Web Design
 - [Inspiration 🔗](https://github.com/noahbuscher/inspire)
-- [Awesome Web Design](https://github.com/nicolesaidy/awesome-web-design)
+- [Awesome Web Design 🔗](https://github.com/nicolesaidy/awesome-web-design)
 - [Ant Design](https://pro.ant.design) - "Out-of-box UI solution for enterprise applications"
 
 ### UI/UX Design

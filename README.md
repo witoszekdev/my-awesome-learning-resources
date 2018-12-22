@@ -36,12 +36,17 @@ Programming resources not asosiated with any programming language/technology
 
 ### Computer Science
 - [Open Source Society University 📜🔗](https://github.com/ossu/computer-science)
+- [Awesome CS Courses 🔗](https://github.com/prakhar1989/awesome-courses)
 
 ### Algorithms
 - [Interactive Coding Challanges ✍️📝](https://github.com/donnemartin/interactive-coding-challenges)
 - [Tech Interview Handbook – Algorithms 💬](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms)
+- [Cosmos 💬✂️](https://github.com/OpenGenus/cosmos) – "Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter"
 - [Algorithms in Python ✂️](https://github.com/keon/algorithms) – "Minimal and clean example implementations of data structures and algorithms in Python 3"
 - [Algorithms in JavaScript ✂️](https://github.com/yangshun/lago)
+
+### Projects
+- [Mega Project List ✍️](https://github.com/karan/Projects) – A list of practical projects that anyone can solve in any programming language
 
 
 ## Front-Enbd Development
@@ -54,6 +59,9 @@ Programming resources not asosiated with any programming language/technology
 - [Front End Checklist 👌](https://github.com/thedaviddias/Front-End-Checklist)
 - [Front-End Performance Checklist 👌](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [Front-End Design Checklist 👌](https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist)
+
+### HTML
+- [HTML Best Practices 👌](https://github.com/hail2u/html-best-practices)
 
 ### JavaScript
 - [JavaScript Stack From Scratch 💬](https://github.com/verekia/js-stack-from-scratch)
@@ -135,6 +143,7 @@ Programming resources not asosiated with any programming language/technology
 
 ### Hacking
 - [Hacker 101 ✍️🎥](https://www.hacker101.com) – free class for web security
+- [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit) – 
 
 ## Design
 
@@ -144,7 +153,8 @@ Programming resources not asosiated with any programming language/technology
 - [Ant Design](https://pro.ant.design) - "Out-of-box UI solution for enterprise applications"
 
 ### UI/UX Design
-- [UI/UX Designer Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)
+- [UI/UX Designer Roadmap 📜](https://github.com/togiberlin/ui-ux-designer-roadmap)
+- [Awesome Design Systems 🔗](https://github.com/alexpate/awesome-design-systems)
 
 
 ## General advice
@@ -152,7 +162,9 @@ aka: the stuff that I haven't found a place in this list
 
 - [Awesome Creative Coding 🔗](https://github.com/terkelg/awesome-creative-coding)
 - [Awesome Cheat Sheets 🔗](https://github.com/LeCoupa/awesome-cheatsheets)
-- [Live Commit](https://github.com/ByronHsu/life-commit)
+- [Live Commit 💡](https://github.com/ByronHsu/life-commit)
+- [Keep A Changelog 💬👌](https://keepachangelog.com/pl/1.0.0/)
+- [Best Websites a Programmer Should Visit 🔗](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ### Career
 - [Tech Interview Handbook 📗](https://github.com/yangshun/tech-interview-handbook)

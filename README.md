@@ -21,9 +21,6 @@ Unfortunatley I've never had time to read them all. Maybe when I categorize them
 - 🔐 – Security
 - ✂️ – Code
 
-## Computer Science
-- [Open Source Society University 📜🔗](https://github.com/ossu/computer-science)
-
 ## General Programming
 Programming resources not asosiated with any programming language/technology
 
@@ -34,6 +31,9 @@ Programming resources not asosiated with any programming language/technology
 - [Operating Systems: From 0 to 1 📗](https://github.com/tuhdo/os01) - build your own operating system!
 - [A-Z Resources for Studens 🔗](https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-portals-smile)
 - [Design Patterns For Humans 💬](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+### Computer Science
+- [Open Source Society University 📜🔗](https://github.com/ossu/computer-science)
 
 ### Algorithms
 - [Interactive Coding Challanges ✍️📝](https://github.com/donnemartin/interactive-coding-challenges)
@@ -63,7 +63,7 @@ Programming resources not asosiated with any programming language/technology
 - [PWA Fundamentals](https://github.com/mike-works/pwa-fundamentals)
 
 ### HTTP
-- [Auth Boss](https://github.com/teesloane/Auth-Boss) – Learn about different authentication methodologies on the web
+- [Auth Boss 📗](https://github.com/teesloane/Auth-Boss) – Learn about different authentication methodologies on the web
 
 
 ### Practice tasks
@@ -96,7 +96,11 @@ Programming resources not asosiated with any programming language/technology
 ### HTTP Client
 - [CLI HTTP Client 💡](https://github.com/jakubroztocil/httpie#macos)
 
-## Buzz-Words
+### The Cloud
+#### AWS
+- [AWS – Open Guide 📗](https://github.com/open-guides/og-aws)
+
+## Buzz-Words / Topics
 
 ### Machine Learning
 - [Have Fun with Machine Learning: A Guide for Beginners](https://github.com/humphd/have-fun-with-machine-learning)
@@ -114,6 +118,8 @@ Programming resources not asosiated with any programming language/technology
 - [System Design Interview 🔗](https://github.com/checkcheckzz/system-design-interview)
 - [System Design Patterns (Awesome-Scalability) 🔗](https://github.com/binhnguyennus/awesome-scalability)
 
+### Hacking
+- [Hacker 101 ✍️🎥](https://www.hacker101.com) – free class for web security
 
 ## Design
 
@@ -131,6 +137,7 @@ aka: the stuff that I haven't found a place in this list
 
 - [Awesome Creative Coding 🔗](https://github.com/terkelg/awesome-creative-coding)
 - [Awesome Cheat Sheets 🔗](https://github.com/LeCoupa/awesome-cheatsheets)
+- [Live Commit](https://github.com/ByronHsu/life-commit)
 
 ### Career
 - [Coding Interview Questions 📜💬](https://github.com/FAQGURU/FAQGURU)

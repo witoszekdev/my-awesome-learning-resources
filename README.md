@@ -2,6 +2,9 @@
 
 > Curated personal list of programming related learning resources.
 
+[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 **But Why?**
 
 I starred a lot of repos on GitHub and bookmarked / pinboarded / Instapapered a lot of great resources on the Internet.
@@ -196,3 +199,9 @@ aka: the stuff that I haven't found a place in this list
 - [Awesome Remote Job 🔗](https://github.com/lukasz-madon/awesome-remote-job)
 - [InterviewThis! 💬](https://github.com/Twipped/InterviewThis) – List of developer questions to ask prospective employers
 - [Hiring Without Whiteboards 📜](https://github.com/poteto/hiring-without-whiteboards) – List of companies that don't have a broken hiring process
+
+## Licence
+Licenced under Creative Commons 0.
+See LICENCE.md for further details
+
+[![CC0 Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CC-Zero-badge.svg/500px-CC-Zero-badge.svg.png)]

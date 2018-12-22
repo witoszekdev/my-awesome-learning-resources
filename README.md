@@ -36,3 +36,6 @@ Personal list of programming related learning resources
 
 ## General advice
 - [A-Z Resources for Studens](https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-portals-smile)
+
+### Career
+- [Coding Interview Questions](https://github.com/FAQGURU/FAQGURU)

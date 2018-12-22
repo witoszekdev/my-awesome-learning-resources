@@ -24,6 +24,7 @@ Unfortunatley I've never had time to read them all. Maybe when I categorize them
 ## General Programming
 Programming resources not asosiated with any programming language/technology
 
+- [Learn anything 🔗](https://github.com/learn-anything/learn-anything)
 - [Curated Programming Resources 🔗](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 - [Programming curricula 📜🔗](https://github.com/P1xt/p1xt-guides)
 - [Build your own... ✍️](https://github.com/danistefanovic/build-your-own-x)
@@ -84,6 +85,7 @@ Programming resources not asosiated with any programming language/technology
 ### Python
 - [WTF Python ✂️](https://github.com/satwikkansal/wtfpython) – "A collection of surprising Python snippets and lesser-known features"
 - [PySheet 💬✂️](https://github.com/crazyguitar/pysheeet) – Python Cheat Sheet
+- [The Hitchhiker’s Guide to Python 📗🔗](https://docs.python-guide.org)
 
 
 ## Mobile Development

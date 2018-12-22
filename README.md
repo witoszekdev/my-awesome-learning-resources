@@ -25,6 +25,7 @@ Unfortunatley I've never had time to read them all. Maybe when I categorize them
 Programming resources not asosiated with any programming language/technology
 
 - [Curated Programming Resources 🔗](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
+- [Programming curricula 📜🔗](https://github.com/P1xt/p1xt-guides)
 - [Build your own... ✍️](https://github.com/danistefanovic/build-your-own-x)
 - [Project Based Learning ✍️🔗](https://github.com/tuvtran/project-based-learning)
 - [Reverse Engineering for Beginners 📗](https://github.com/DennisYurichev/RE-for-beginners)
@@ -67,8 +68,8 @@ Programming resources not asosiated with any programming language/technology
 ### HTTP
 - [Auth Boss 📗](https://github.com/teesloane/Auth-Boss) – Learn about different authentication methodologies on the web
 
-
 ### Practice tasks
+- [RealWorld](https://github.com/gothinkster/realworld) – Exemplary fullstack Medium.com clone
 - [How to build responsive website from start to finish 🎥](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
 - [The New Code – Excercises and Quizes ✍️📝](http://thenewcode.com/1044/Web-Developer-Reading-List-Exercises-and-Quizzes)
 - [5 Projects To Complete When Starting to Learn Front-End Web Development ✍️](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178)
@@ -76,6 +77,12 @@ Programming resources not asosiated with any programming language/technology
 ### Best practices
 - [WebFoundamentals 👌💡 (Google)](https://developers.google.com/web/fundamentals)
 
+
+
+## Back-End Development
+
+### Python
+- [WTF Python ✂️](https://github.com/satwikkansal/wtfpython) – "A collection of surprising Python snippets and lesser-known features"
 
 
 ## Mobile Development

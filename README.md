@@ -19,6 +19,9 @@ Personal list of programming related learning resources
 - [The New Code – Excercises and Quizes](http://thenewcode.com/1044/Web-Developer-Reading-List-Exercises-and-Quizzes)
 - [5 Projects To Complete When Starting to Learn Front-End Web Development (Medium)](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178)
 
+### Best practices
+- [WebFoundamentals (Google)](https://developers.google.com/web/fundamentals)
+
 ## Development tools
 
 - [Git](https://github.com/jlord/git-it-electron)

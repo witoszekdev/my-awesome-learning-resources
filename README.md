@@ -19,6 +19,7 @@ Unfortunatley I've never had time to read them all. Maybe when I categorize them
 - 🚧 – Bad-Practices
 - 📊 – Design Patterns
 - 🔐 – Security
+- ✂️ – Code
 
 ## Computer Science
 - [Open Source Society University 📜🔗](https://github.com/ossu/computer-science)
@@ -36,6 +37,7 @@ Programming resources not asosiated with any programming language/technology
 
 ### Algorithms
 - [Interactive Coding Challanges ✍️📝](https://github.com/donnemartin/interactive-coding-challenges)
+- [Algorithms in Python ✂️](https://github.com/keon/algorithms) – "Minimal and clean example implementations of data structures and algorithms in Python 3"
 
 
 ## Front-Enbd Development
@@ -59,6 +61,9 @@ Programming resources not asosiated with any programming language/technology
 
 ### PWA - Progressive Web Apps
 - [PWA Fundamentals](https://github.com/mike-works/pwa-fundamentals)
+
+### HTTP
+- [Auth Boss](https://github.com/teesloane/Auth-Boss) – Learn about different authentication methodologies on the web
 
 
 ### Practice tasks
@@ -88,7 +93,7 @@ Programming resources not asosiated with any programming language/technology
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Pure Bash Bible 📗](https://github.com/dylanaraps/pure-bash-bible)
 
-### HTTP
+### HTTP Client
 - [CLI HTTP Client 💡](https://github.com/jakubroztocil/httpie#macos)
 
 ## Buzz-Words
@@ -130,4 +135,5 @@ aka: the stuff that I haven't found a place in this list
 ### Career
 - [Coding Interview Questions 📜💬](https://github.com/FAQGURU/FAQGURU)
 - [Interviews - everything you need to get a job](https://github.com/kdn251/interviews)
+- [InterviewThis!](https://github.com/Twipped/InterviewThis) – List of developer questions to ask prospective employers
 - [Hiring Without Whiteboards 📜](https://github.com/poteto/hiring-without-whiteboards) – List of companies that don't have a broken hiring process

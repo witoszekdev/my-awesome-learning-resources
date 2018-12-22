@@ -33,6 +33,7 @@ Programming resources not asosiated with any programming language/technology
 - [Operating Systems: From 0 to 1 📗](https://github.com/tuhdo/os01) - build your own operating system!
 - [A-Z Resources for Studens 🔗](https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-portals-smile)
 - [Design Patterns For Humans 💬](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [Free Programming Books 🔗📗](https://github.com/EbookFoundation/free-programming-books)
 
 ### Computer Science
 - [Open Source Society University 📜🔗](https://github.com/ossu/computer-science)
@@ -50,6 +51,7 @@ Programming resources not asosiated with any programming language/technology
 
 
 ## Front-Enbd Development
+- [Web Developer Roadmap 📜](https://github.com/kamranahmedse/developer-roadmap)
 - [Learn web development as an absolute beginner (2018 guide) 📜](https://coder-coder.com/learn-web-development/) - great introduction to learning Web Development
 - [Front-End Developer Handbook 📜](https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
 - [Reading List – The New Code 🔗](http://thenewcode.com/729/Introduction-to-Web-Development-Reading-Lists)
@@ -62,6 +64,7 @@ Programming resources not asosiated with any programming language/technology
 
 ### HTML
 - [HTML Best Practices 👌](https://github.com/hail2u/html-best-practices)
+- [Favicon Cheat Sheet 💬](https://github.com/audreyr/favicon-cheat-sheet)
 
 ### JavaScript
 - [JavaScript Stack From Scratch 💬](https://github.com/verekia/js-stack-from-scratch)
@@ -95,6 +98,9 @@ Programming resources not asosiated with any programming language/technology
 - [PySheet 💬✂️](https://github.com/crazyguitar/pysheeet) – Python Cheat Sheet
 - [The Hitchhiker’s Guide to Python 📗🔗](https://docs.python-guide.org)
 
+
+### Node.js
+- [Lear you Node ✍️💬](https://github.com/workshopper/learnyounode)
 
 ## Mobile Development
 - [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)

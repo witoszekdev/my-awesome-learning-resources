@@ -1,6 +1,6 @@
 # (my) Awesome learning resouces 📚
 
-> Courated personal list of programming related learning resources.
+> Curated personal list of programming related learning resources.
 
 **But Why?**
 

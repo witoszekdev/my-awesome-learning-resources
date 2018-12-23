@@ -44,6 +44,8 @@ Programming resources not asosiated with any programming language/technology
 - [A-Z Resources for Studens 🔗](https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-portals-smile)
 - [Design Patterns For Humans 💬](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Free Programming Books 🔗📗](https://github.com/EbookFoundation/free-programming-books)
+- [Techio ✂️💬](https://tech.io) – "The Knowledge-Sharing Platform for Developers"
+- [Awesome Learn To Code 🔗](https://github.com/mike-north/awesome-learn-to-code) – A list of awesome resources for learning to code
 
 ### Computer Science
 - [Open Source Society University 📜🔗](https://github.com/ossu/computer-science)
@@ -54,7 +56,9 @@ Programming resources not asosiated with any programming language/technology
 - [Tech Interview Handbook – Algorithms 💬](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms)
 - [Cosmos 💬✂️](https://github.com/OpenGenus/cosmos) – "Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter"
 - [Algorithms in Python ✂️](https://github.com/keon/algorithms) – "Minimal and clean example implementations of data structures and algorithms in Python 3"
+- [pygorithm ✂️](https://github.com/OmkarPathak/pygorithm) 
 - [Algorithms in JavaScript ✂️](https://github.com/yangshun/lago)
+- [Javascript Algorithms ✂️💬🔗](https://github.com/trekhleb/javascript-algorithms) – Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 #### Challanges
 - [Project Euler ✍️](https://projecteuler.net)
@@ -63,6 +67,8 @@ Programming resources not asosiated with any programming language/technology
 
 ### Projects
 - [Mega Project List ✍️](https://github.com/karan/Projects) – A list of practical projects that anyone can solve in any programming language
+- [Awesome First PR Opportunities ✍️🔗](https://github.com/MunGell/awesome-for-beginners#javascript) – List of Open Source projects for beginners
+- [Beginner Projects Repo ✍️](https://github.com/jorgegonzalez/beginner-projects#99-bottles)
 
 
 
@@ -78,6 +84,9 @@ Programming resources not asosiated with any programming language/technology
 ### HTML
 - [HTML Best Practices 👌](https://github.com/hail2u/html-best-practices)
 - [Favicon Cheat Sheet 💬](https://github.com/audreyr/favicon-cheat-sheet)
+
+### CSS
+- [CSS Diner 💬✍️](https://flukeout.github.io)
 
 ### JavaScript
 - [JavaScript Stack From Scratch 💬](https://github.com/verekia/js-stack-from-scratch)
@@ -100,8 +109,10 @@ Programming resources not asosiated with any programming language/technology
 - [JavaScript Excercises ✍️](https://github.com/appalaszynski/javascript-exercises)
 - [How to build responsive website from start to finish 🎥](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
 - [The New Code – Excercises and Quizes ✍️📝](http://thenewcode.com/1044/Web-Developer-Reading-List-Exercises-and-Quizzes)
+- [LeWagon's HTML & CSS Challanges ✍️](https://github.com/lewagon/html-css-challenges)
 - [5 Projects To Complete When Starting to Learn Front-End Web Development ✍️🗞️](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178)
 - [10+ Php projects for beginners ✍️🗞️](http://marketinghacker.org/10-php-projects-for-beginners/) (not only for PHP)
+- [Coder Projects ✍️](http://googlecreativelab.github.io/coder-projects/)
 
 ### Best practices
 - [WebFoundamentals 👌💡 (Google)](https://developers.google.com/web/fundamentals)
@@ -206,6 +217,7 @@ aka: the stuff that I haven't found a place in this list
 - [Awesome Remote Job 🔗](https://github.com/lukasz-madon/awesome-remote-job)
 - [InterviewThis! 💬](https://github.com/Twipped/InterviewThis) – List of developer questions to ask prospective employers
 - [Hiring Without Whiteboards 📜](https://github.com/poteto/hiring-without-whiteboards) – List of companies that don't have a broken hiring process
+- ["Show you can code" 🗞️](https://techbeacon.com/what-do-job-seeking-developers-need-their-github) – "What do job-seeking developers need in their GitHub?"
 
 ## Licence
 Licenced under Creative Commons 0.

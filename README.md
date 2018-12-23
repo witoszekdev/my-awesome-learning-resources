@@ -69,6 +69,10 @@ Learn theoretical basics of programming
 - [Algorithms in JavaScript ✂️](https://github.com/yangshun/lago)
 - [Javascript Algorithms ✂️💬🔗](https://github.com/trekhleb/javascript-algorithms) – Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
+### Regex
+- [RegexOne 💬](https://regexone.com)
+- [Regular Expressions - The Coding Train 🎥](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
+
 #### Challanges
 - [Project Euler ✍️](https://projecteuler.net)
 - [Code Signal ✍️](https://app.codesignal.com)
@@ -234,6 +238,7 @@ aka: the stuff that I haven't found a place in this list
 - [Live Commit 💡](https://github.com/ByronHsu/life-commit)
 - [Keep A Changelog 💬👌](https://keepachangelog.com/pl/1.0.0/)
 - [Best Websites a Programmer Should Visit 🔗](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Programming Notes 📜](https://drive.google.com/drive/u/0/folders/0BztLOG55I2FVT0NNLTVXM1JOYlk)
 
 ### Career
 - [Tech Interview Handbook 📗](https://github.com/yangshun/tech-interview-handbook)

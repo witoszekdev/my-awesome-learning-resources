@@ -52,6 +52,7 @@ Programming resources not asosiated with any programming language/technology
 - [Free Programming Books 🔗📗](https://github.com/EbookFoundation/free-programming-books)
 - [Techio ✂️💬](https://tech.io) – "The Knowledge-Sharing Platform for Developers"
 - [Awesome Learn To Code 🔗](https://github.com/mike-north/awesome-learn-to-code) – A list of awesome resources for learning to code
+- [Enlight 💬✂️](https://enlight.nyc) – open-source, community-driven educational network for learning to code
 
 ### Computer Science
 Learn theoretical basics of programming
@@ -107,12 +108,17 @@ Learn theoretical basics of programming
 - [Build a Minimalist HTML Card in just 53 lines of code 🗞️](https://codeburst.io/build-a-minimalist-html-card-in-just-53-lines-of-code-with-flexbox-b40801927eb5)
 
 ### JavaScript
+- [Eloquent JavaScript 📗](http://eloquentjavascript.net)
+- [You Don't Know JS 📗](https://github.com/getify/You-Dont-Know-JS)
 - [JavaScript Stack From Scratch 💬](https://github.com/verekia/js-stack-from-scratch)
 - [JavaScript tooling 🔧](https://blog.qmo.io/javascript-tooling-the-evolution-and-future-of-js-front-end-build-tools/)
 - [How to setup Webpack from scratch 💬](https://codeburst.io/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e)
 - [Awesome JavaScript Learning 🔗](https://github.com/micromata/awesome-javascript-learning)
 - [Node School Workshops ✍️](https://nodeschool.io)
 - [The Coding Train 🎥](https://www.youtube.com/user/shiffman)
+- [The beginning of an adventure: 13 Weeks of JavaScript 🗞️](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533)
+- [JavaScript Garden 💬](http://bonsaiden.github.io/JavaScript-Garden/) – Documentation of most quirky parts of JS
+- [Learning JavaScript Design Patterns 👌📗](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ### PWA - Progressive Web Apps
 ~~- [PWA Fundamentals ](https://github.com/mike-works/pwa-fundamentals)~~

@@ -56,6 +56,11 @@ Programming resources not asosiated with any programming language/technology
 - [Algorithms in Python ✂️](https://github.com/keon/algorithms) – "Minimal and clean example implementations of data structures and algorithms in Python 3"
 - [Algorithms in JavaScript ✂️](https://github.com/yangshun/lago)
 
+#### Challanges
+- [Project Euler ✍️](https://projecteuler.net)
+- [Code Signal ✍️](https://app.codesignal.com)
+- [Leet Code ✍️](https://leetcode.com/problemset/all/)
+
 ### Projects
 - [Mega Project List ✍️](https://github.com/karan/Projects) – A list of practical projects that anyone can solve in any programming language
 

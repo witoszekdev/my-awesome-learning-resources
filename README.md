@@ -96,10 +96,15 @@ Learn theoretical basics of programming
 ### HTML
 - [HTML Best Practices 👌](https://github.com/hail2u/html-best-practices)
 - [Favicon Cheat Sheet 💬](https://github.com/audreyr/favicon-cheat-sheet)
+- [Let's make a website! 🗞️](https://codeburst.io/lets-make-a-website-ae5e28758519) – Series of articles about building first website
 
 ### CSS
 - [CSS Diner 💬✍️](https://flukeout.github.io)
 - [CSS Reference ✂️💬](https://cssreference.io) – The most esthetical CSS Reference I've found
+- [Do you hate writing CSS? 🗞️](https://codeburst.io/do-you-hate-writing-css-dbdf60175381)
+- [How To Animate Using CSS 🗞️](https://codeburst.io/how-to-animate-using-css-27e04208ee8)
+- [Make the Perfect Responsive Grid with CSS 🗞️](https://codeburst.io/make-the-perfect-responsive-grid-with-css-df6862984e6)
+- [Build a Minimalist HTML Card in just 53 lines of code 🗞️](https://codeburst.io/build-a-minimalist-html-card-in-just-53-lines-of-code-with-flexbox-b40801927eb5)
 
 ### JavaScript
 - [JavaScript Stack From Scratch 💬](https://github.com/verekia/js-stack-from-scratch)
@@ -132,6 +137,7 @@ Learn theoretical basics of programming
 - [Front End Checklist 👌](https://github.com/thedaviddias/Front-End-Checklist)
 - [Front-End Performance Checklist 👌](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [Front-End Design Checklist 👌](https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist)
+- [Stop Sabotaging Your Code…Before You Even Code 🗞️](https://codeburst.io/stop-sabotaging-your-code-4ed67424a17a)
 
 
 

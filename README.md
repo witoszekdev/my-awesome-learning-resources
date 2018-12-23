@@ -67,8 +67,11 @@ Programming resources not asosiated with any programming language/technology
 
 ### Projects
 - [Mega Project List ✍️](https://github.com/karan/Projects) – A list of practical projects that anyone can solve in any programming language
+- [Martyr2’s Mega Project List ✍️](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 - [Awesome First PR Opportunities ✍️🔗](https://github.com/MunGell/awesome-for-beginners#javascript) – List of Open Source projects for beginners
 - [Beginner Projects Repo ✍️](https://github.com/jorgegonzalez/beginner-projects#99-bottles)
+- [RosettaCode ✂️✍️](http://rosettacode.org/wiki/Rosetta_Code) – "a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another"
+
 
 
 
@@ -128,6 +131,7 @@ Programming resources not asosiated with any programming language/technology
 - [WTF Python ✂️](https://github.com/satwikkansal/wtfpython) – "A collection of surprising Python snippets and lesser-known features"
 - [PySheet 💬✂️](https://github.com/crazyguitar/pysheeet) – Python Cheat Sheet
 - [The Hitchhiker’s Guide to Python 📗🔗](https://docs.python-guide.org)
+- [PyTest Introduction 🗞️](http://pythontesting.net/framework/pytest/pytest-introduction/)
 
 
 ### Node.js

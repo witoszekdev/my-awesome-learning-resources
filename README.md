@@ -10,26 +10,26 @@
 I starred a lot of repos on GitHub and bookmarked / pinboarded / Instapapered a lot of great resources on the Internet.
 Unfortunatley I've never had time to read them all. Maybe when I categorize them in a nice and easy-to-read list I'll finally read them? 😅
 
-**Used Emojis**
-- 📜 – Introduction to topic / List / Curriculum
-- 🔗 – List linking to other resources
-
-- 💬 – Text Tutorial
-- 🎥 – Video Tutorial / YouTube Channel
-- 🗞️ – Article
-- 📗 – Book
-
-- ✍️ – Learn by doing
-- 📝 – Quizes
-
-- 💡 – New Ideas / Trending
-
-- 👌 – Best–Practices
-- 🚧 – Bad-Practices
-- 📊 – Design Patterns
-
-- 🔐 – Security
-- ✂️ – Code
+<details>
+  <summary>Legend</summary>
+  
+  | Icon | Meaning |
+  | ---:| :--- |
+  | 📜  | Introduction to topic / List / Curriculum |
+  | 🔗  | List linking to other resources |
+  | 💬  | Text Tutorial |
+  | 🎥  | Video Tutorial / YouTube Channel |
+  | 🗞️  | Article |
+  | 📗  | Book |
+  | ✍️  | Learn by doing |
+  | 📝  | Quizes |
+  | 💡  | New Ideas / Trending |
+  | 👌  | Best–Practices |
+  | 🚧  | Bad-Practices |
+  | 📊  | Design Patterns |
+  | 🔐  | Security |
+  | ✂️  | Code |
+</details>
 
 ## General Programming
 Programming resources not asosiated with any programming language/technology

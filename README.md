@@ -10,6 +10,12 @@
 I starred a lot of repos on GitHub and bookmarked / pinboarded / Instapapered a lot of great resources on the Internet.
 Unfortunatley I've never had time to read them all. Maybe when I categorize them in a nice and easy-to-read list I'll finally read them? 😅
 
+**Notes from the author**
+
+I've tried to list mainly free and open source resources like blogs, Medium articles, GitHub repos and avoid Bootcamps and paid online courses (although I don't discourage you from taking one!)
+
+I might remove some resources that I personally find not worthy of mine and your time or aren't compliant with the rules I described.
+
 <details>
   <summary>Legend</summary>
   
@@ -48,10 +54,12 @@ Programming resources not asosiated with any programming language/technology
 - [Awesome Learn To Code 🔗](https://github.com/mike-north/awesome-learn-to-code) – A list of awesome resources for learning to code
 
 ### Computer Science
+Learn theoretical basics of programming
 - [Open Source Society University 📜🔗](https://github.com/ossu/computer-science)
 - [Awesome CS Courses 🔗](https://github.com/prakhar1989/awesome-courses)
 
 ### Algorithms
+*also see Career section in General Advice*
 - [Interactive Coding Challanges ✍️📝](https://github.com/donnemartin/interactive-coding-challenges)
 - [Tech Interview Handbook – Algorithms 💬](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms)
 - [Cosmos 💬✂️](https://github.com/OpenGenus/cosmos) – "Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter"
@@ -83,6 +91,7 @@ Programming resources not asosiated with any programming language/technology
 - [Web Development Syllabus 🔗](https://novicedock.com/learn/computer-science/web-development#practice)
 - [The Most Essential List for Front-End Beginners 🔗](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 - [Become a Full-Stack Developer 🔗](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [The Odin Project](https://www.theodinproject.com/home) – "Your Career in Web Development Starts Here"
 
 ### HTML
 - [HTML Best Practices 👌](https://github.com/hail2u/html-best-practices)
@@ -90,6 +99,7 @@ Programming resources not asosiated with any programming language/technology
 
 ### CSS
 - [CSS Diner 💬✍️](https://flukeout.github.io)
+- [CSS Reference ✂️💬](https://cssreference.io) – The most esthetical CSS Reference I've found
 
 ### JavaScript
 - [JavaScript Stack From Scratch 💬](https://github.com/verekia/js-stack-from-scratch)
@@ -222,6 +232,9 @@ aka: the stuff that I haven't found a place in this list
 - [InterviewThis! 💬](https://github.com/Twipped/InterviewThis) – List of developer questions to ask prospective employers
 - [Hiring Without Whiteboards 📜](https://github.com/poteto/hiring-without-whiteboards) – List of companies that don't have a broken hiring process
 - ["Show you can code" 🗞️](https://techbeacon.com/what-do-job-seeking-developers-need-their-github) – "What do job-seeking developers need in their GitHub?"
+
+## Contributing
+I highly encourage you to share your awesome resources with me! If you find something interesting please open a pull request.
 
 ## Licence
 Licenced under Creative Commons 0.

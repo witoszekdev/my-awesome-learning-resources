@@ -104,7 +104,7 @@ Learn theoretical basics of programming
 - [Let's make a website! 🗞️](https://codeburst.io/lets-make-a-website-ae5e28758519) – Series of articles about building first website
 
 ### CSS
-- [CSS Diner 💬✍️](https://flukeout.github.io)
+- [x] [CSS Diner 💬📝](https://flukeout.github.io) 
 - [CSS Reference ✂️💬](https://cssreference.io) – The most esthetical CSS Reference I've found
 - [Do you hate writing CSS? 🗞️](https://codeburst.io/do-you-hate-writing-css-dbdf60175381)
 - [How To Animate Using CSS 🗞️](https://codeburst.io/how-to-animate-using-css-27e04208ee8)

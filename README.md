@@ -159,6 +159,9 @@ Learn theoretical basics of programming
 - [The Hitchhiker’s Guide to Python 📗🔗](https://docs.python-guide.org)
 - [PyTest Introduction 🗞️](http://pythontesting.net/framework/pytest/pytest-introduction/)
 
+#### Django
+- [Do's and Dont's to Improve Performance of Django Websites 👌](https://www.knowlarity.com/blog/dos-donts-improve-performance-django-websites/)
+
 
 ### Node.js
 - [Lear you Node ✍️💬](https://github.com/workshopper/learnyounode)

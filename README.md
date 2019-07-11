@@ -27,7 +27,8 @@ I might remove some resources that I personally find not worthy of mine and your
   | 🎥  | Video Tutorial / YouTube Channel |
   | 🗞️  | Article |
   | 📗  | Book |
-  | ✍️  | Learn by doing |
+  | ✍️   | Learn by doing |
+  | 🔁  | Spaced repetition |
   | 📝  | Quizes |
   | 💡  | New Ideas / Trending |
   | 👌  | Best–Practices |
@@ -71,6 +72,7 @@ Learn theoretical basics of programming
 
 ### Regex
 - [RegexOne 💬](https://regexone.com)
+- [Execute Program 🔁📝](https://www.executeprogram.com/)
 - [Regular Expressions - The Coding Train 🎥](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 
 #### Challanges
@@ -88,7 +90,7 @@ Learn theoretical basics of programming
 
 
 
-## Front-Enbd Development
+## Front-End Development
 - [Web Developer Roadmap 📜](https://github.com/kamranahmedse/developer-roadmap)
 - [Learn web development as an absolute beginner (2018 guide) 📜](https://coder-coder.com/learn-web-development/) - great introduction to learning Web Development
 - [Front-End Developer Handbook 📜](https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
@@ -112,6 +114,7 @@ Learn theoretical basics of programming
 - [Build a Minimalist HTML Card in just 53 lines of code 🗞️](https://codeburst.io/build-a-minimalist-html-card-in-just-53-lines-of-code-with-flexbox-b40801927eb5)
 
 ### JavaScript
+- [javascript.info 📜](https://javascript.info/)
 - [Eloquent JavaScript 📗](http://eloquentjavascript.net)
 - [You Don't Know JS 📗](https://github.com/getify/You-Dont-Know-JS)
 - [JavaScript Stack From Scratch 💬](https://github.com/verekia/js-stack-from-scratch)

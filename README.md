@@ -54,6 +54,7 @@ Programming resources not asosiated with any programming language/technology
 - [Techio ✂️💬](https://tech.io) – "The Knowledge-Sharing Platform for Developers"
 - [Awesome Learn To Code 🔗](https://github.com/mike-north/awesome-learn-to-code) – A list of awesome resources for learning to code
 - [Enlight 💬✂️](https://enlight.nyc) – open-source, community-driven educational network for learning to code
+- [/notes 💬](https://github.com/darshanime/notes) – personal notes on various computer science topics, gathered over 3 year
 
 ### Computer Science
 Learn theoretical basics of programming
@@ -127,7 +128,10 @@ Learn theoretical basics of programming
 - [JavaScript Garden 💬](http://bonsaiden.github.io/JavaScript-Garden/) – Documentation of most quirky parts of JS
 - [Learning JavaScript Design Patterns 👌📗](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
-### PWA - Progressive Web Apps
+#### React
+- [Interview Questions 💬](https://github.com/sudheerj/reactjs-interview-questions)
+
+#### PWA - Progressive Web Apps
 ~~- [PWA Fundamentals ](https://github.com/mike-works/pwa-fundamentals)~~
 > Paid Workshop Materials
 

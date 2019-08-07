@@ -131,6 +131,8 @@ Learn theoretical basics of programming
 
 #### React
 - [Interview Questions 💬](https://github.com/sudheerj/reactjs-interview-questions)
+- [React Bits 👌](https://vasanthk.gitbooks.io/react-bits/)
+- [JS.coach 🔗](https://js.coach/?collection=React)
 
 #### PWA - Progressive Web Apps
 ~~- [PWA Fundamentals ](https://github.com/mike-works/pwa-fundamentals)~~

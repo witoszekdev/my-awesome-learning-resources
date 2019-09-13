@@ -22,6 +22,7 @@ I might remove some resources that I personally find not worthy of mine and your
   | Icon | Meaning |
   | ---:| :--- |
   | 📜  | Introduction to topic / List / Curriculum |
+  | ✍️   | Blog |
   | 🔗  | List linking to other resources |
   | 💬  | Text Tutorial |
   | 🎥  | Video Tutorial / YouTube Channel |
@@ -60,6 +61,7 @@ Programming resources not asosiated with any programming language/technology
 Learn theoretical basics of programming
 - [Open Source Society University 📜🔗](https://github.com/ossu/computer-science)
 - [Awesome CS Courses 🔗](https://github.com/prakhar1989/awesome-courses)
+- [Coding Interview University 📜🔗](https://github.com/jwasham/coding-interview-university)
 
 ### Algorithms
 *also see Career section in General Advice*
@@ -100,6 +102,7 @@ Learn theoretical basics of programming
 - [The Most Essential List for Front-End Beginners 🔗](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 - [Become a Full-Stack Developer 🔗](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [The Odin Project](https://www.theodinproject.com/home) – "Your Career in Web Development Starts Here"
+- [Frontend Armory](https://frontarm.com/)
 
 ### HTML
 - [HTML Best Practices 👌](https://github.com/hail2u/html-best-practices)
@@ -128,11 +131,18 @@ Learn theoretical basics of programming
 - [The beginning of an adventure: 13 Weeks of JavaScript 🗞️](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533)
 - [JavaScript Garden 💬](http://bonsaiden.github.io/JavaScript-Garden/) – Documentation of most quirky parts of JS
 - [Learning JavaScript Design Patterns 👌📗](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Survive JS 📗](https://survivejs.com/)
+
+#### ES6+
+- [jsfeatures.in 📜](https://jsfeatures.in/) - List with examples of new JS features
 
 #### React
+- [React Resources 🔗](https://reactresources.com/)
+- [Dan Abramov's Blog ](https://overreacted.io/)
 - [Interview Questions 💬](https://github.com/sudheerj/reactjs-interview-questions)
 - [React Bits 👌](https://vasanthk.gitbooks.io/react-bits/)
 - [JS.coach 🔗](https://js.coach/?collection=React)
+- [useHooks 📊✂️](https://usehooks.com/)
 
 #### PWA - Progressive Web Apps
 ~~- [PWA Fundamentals ](https://github.com/mike-works/pwa-fundamentals)~~

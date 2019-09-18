@@ -65,6 +65,7 @@ Learn theoretical basics of programming
 
 ### Algorithms
 *also see Career section in General Advice*
+- [algodaily](algodaily.com) - Daily coding challanges
 - [Interactive Coding Challanges ✍️📝](https://github.com/donnemartin/interactive-coding-challenges)
 - [Tech Interview Handbook – Algorithms 💬](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms)
 - [Cosmos 💬✂️](https://github.com/OpenGenus/cosmos) – "Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter"

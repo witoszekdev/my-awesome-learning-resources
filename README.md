@@ -170,6 +170,9 @@ Learn theoretical basics of programming
 - [Front-End Design Checklist 👌](https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist)
 - [Stop Sabotaging Your Code…Before You Even Code 🗞️](https://codeburst.io/stop-sabotaging-your-code-4ed67424a17a)
 
+#### Testing ✅
+- [JavaScript Testing Best Practices 👌📗✂️](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
 
 
 ## Back-End Development
@@ -186,6 +189,7 @@ Learn theoretical basics of programming
 
 ### Node.js
 - [Lear you Node ✍️💬](https://github.com/workshopper/learnyounode)
+- [Node Best Practices 👌📗✂️](https://github.com/goldbergyoni/nodebestpractices)
 
 ## Mobile Development
 - [iOS Developer Roadmap 📜](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
@@ -208,9 +212,13 @@ Learn theoretical basics of programming
 ### HTTP Client
 - [CLI HTTP Client 💡](https://github.com/jakubroztocil/httpie#macos)
 
-### The Cloud
-#### AWS
+
+## The Cloud 🌤️
+
+### AWS
 - [AWS – Open Guide 📗](https://github.com/open-guides/og-aws)
+- [Learn AWS Lambda 📗](https://github.com/dwyl/learn-aws-lambda)
+
 
 
 
